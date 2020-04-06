@@ -20,7 +20,7 @@ This is a homework for the Stream API
 ## Stream assignment
 Complete TODO in `StreamTask` and `StreamTaskTest` classes
 
-# `testSumSquareEven`
+# `getSumSquareEven`
 It should accept int array, filter only even numbers, and return sum of its square values.
 Please use Stream API for this task. Avoid any loops.
 
